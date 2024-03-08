@@ -61,8 +61,10 @@ Data Information
 
 
 
+
 Value of X
 ![image](https://github.com/23011811/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160568623/1f736f17-5685-456d-bc0f-05c73a0daf4c)
+
 
 
 
@@ -71,8 +73,10 @@ Value of X1_Scaled
 
 
 
+
 Predicted Value
 ![image](https://github.com/23011811/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160568623/e2c6750c-d4be-41bc-929a-65a539ef07b8)
+
 
 
 
