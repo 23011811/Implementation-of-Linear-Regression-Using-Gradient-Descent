@@ -56,31 +56,32 @@ print(prediction)
 print(f"Predicted value: {pre}")
 
 ## Output:
+
 Data Information
+
 ![image](https://github.com/23011811/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160568623/309d4f23-b1f6-4c1c-a5f5-0c5d86f39dbd)
 
 
 
 
 Value of X
+
 ![image](https://github.com/23011811/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160568623/1f736f17-5685-456d-bc0f-05c73a0daf4c)
 
 
 
 
 Value of X1_Scaled
+
 ![image](https://github.com/23011811/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160568623/5f4d5767-8e85-4a3d-85b1-b01f0f56cf20)
 
 
 
 
 Predicted Value
+
 ![image](https://github.com/23011811/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/160568623/e2c6750c-d4be-41bc-929a-65a539ef07b8)
 
-
-
-
-![linear regression using gradient descent](sam.png)
 
 
 ## Result:
